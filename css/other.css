@@ -1,0 +1,39 @@
+.body{
+    background-color: #b6deff;
+}
+
+#logButton{
+    margin-left: 67%;
+    margin-top: 1.2rem;
+}
+
+@media only screen and (min-width: 767px){
+    #logButton {
+        margin-left: 85%;
+        margin-top: 1.2rem;
+    }
+}
+
+.shortNav{
+    width: 66%;
+    position: absolute;
+}
+
+@media only screen and (min-width: 767px){
+    .shortNav{
+        width: 85%;
+        position: absolute;
+    }
+}
+
+.main-card{
+    margin-left: 2%;
+    width: 95%;
+}
+
+.margin-right{
+    margin-right: 2%;
+}
+
+
+
